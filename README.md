@@ -1,5 +1,6 @@
 # Wso2
 
+#Enabling Email notifications in WSO2 API Manager with your Gmail account
 
 In WSO2 API Manager you can enable notifications at the creation of new API versions in order to notify existing subscribers (via email) that a new version of the API is available. Once this is configured existing subscribed will be getting emails when a new version of the API is released.
 First we need to have a subscriber account to log into WSO2 API Store. Log in to the Management Console, make sure the subscribed user has email address in user profile. For this example I have updated admin user with my email address
