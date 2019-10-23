@@ -48,3 +48,5 @@ Email notification from WSO2 API Manager
 Email body
 References
 [1] https://docs.wso2.com/display/AM260/Enabling+Notifications
+
+[2] https://docs.wso2.com/display/AM260/Configuring+Alerts#ConfiguringAlerts-Editalertsasbusinessrules
